@@ -40,4 +40,4 @@ A modern web application to manage seminar hall reservations with a multi-level 
    ```
 
 ### Author
-[Your Name]
+[SADIQ J]
